@@ -1,0 +1,8 @@
+pyaudio
+google-generativeai
+boto3 
+pygame
+python-dotenv
+typing
+threading
+pathlib

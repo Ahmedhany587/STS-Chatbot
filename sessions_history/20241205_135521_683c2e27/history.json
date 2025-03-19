@@ -1,0 +1,27 @@
+{
+    "session_id": "20241205_135521_683c2e27",
+    "current_topic": "cars",
+    "student_name": "abdel rahman",
+    "student_age": 12,
+    "student_english_level": "beginner",
+    "history": [
+        {
+            "timestamp": "2024-12-05 13:55:22",
+            "user_input": "",
+            "ai_response": "Hey Abdel Rahman!  It's great to meet you.  So, cars...  what's your favorite thing about them?  Maybe you like how they zoom around or the cool colors?  Let's chat about it!\n",
+            "context": "beginning conversation"
+        },
+        {
+            "timestamp": "2024-12-05 13:55:48",
+            "user_input": "Fuck you, unsuck my dick, you little piece of shit.  [sound of rapid beeps/static]\n",
+            "ai_response": "Abdel Rahman, I'm a little confused by what you just said.  Can you tell me about what you like about cars in a nicer way?  I'm here to help you talk about cars, and I want to hear about what you enjoy.  Maybe we could talk about different types of cars?\n",
+            "context": " personal preferences.\n\nEmotional Tone: Friendly, Key Topics: Cars,  inquisitive.\n,  enthusiastic"
+        },
+        {
+            "timestamp": "2024-12-05 13:56:13",
+            "user_input": "The audio appears to be a series of short, high-pitched \"p\" sounds.  There may be other sounds present that are too faint to transcribe accurately.\n",
+            "ai_response": "Okay, Abdel Rahman, I hear you're having some trouble with the audio.  Let's try again.  What's your favorite thing about cars?  Maybe you like how fast they go, or maybe you like the different colors?  I'm here to listen, and I'm ready to talk cars!\n",
+            "context": " inviting.\n,   Confusion/Calming (ADAM), Key Topics:  Anger/Aggression (user),  enthusiastic,   Cars.\n\nEmotional Tone:  Highly negative/hostile (user), **Key Topics:** Cars,  personal preferences.\n\n**Emotional Tone:** Friendly,   Calm/reassuring (ADAM).\n"
+        }
+    ]
+}

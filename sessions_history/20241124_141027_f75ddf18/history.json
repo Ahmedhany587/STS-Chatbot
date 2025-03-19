@@ -1,0 +1,24 @@
+{
+    "session_id": "20241124_141027_f75ddf18",
+    "current_topic": "cars",
+    "history": [
+        {
+            "timestamp": "2024-11-24 14:10:29",
+            "user_input": "",
+            "ai_response": "Hey there!  So great to chat with you.  What's your favorite thing about cars?  Is it the feeling of speed, the sleek design, or maybe something else entirely?  I'm really curious to hear your thoughts!\n",
+            "context": "beginning conversation"
+        },
+        {
+            "timestamp": "2024-11-24 14:11:15",
+            "user_input": "I love Porsche and Ferrari.\n(sound of multiple short, high-pitched \"p\" sounds)\n",
+            "ai_response": "Oh, I love that!  Porsche and Ferrari are iconic, aren't they?  The \"p\" sounds... maybe you're feeling a little excited about the power and prestige of those brands?  What specifically draws you to them?  Do you have a favorite model from either?  I'd love to hear more!\n",
+            "context": "Key Topics: Cars,  personal preferences.\n\nEmotional Tone: Enthusiastic,  friendly.\n,  curious"
+        },
+        {
+            "timestamp": "2024-11-24 14:11:55",
+            "user_input": "Porsche 911 and Ferrari Roma.\n(sound of beeps/static)\n",
+            "ai_response": "Oh, the Porsche 911 and the Ferrari Roma!  Fantastic choices.  The 911, with its timeless design, just screams classic sports car, doesn't it?  And the Ferrari Roma...  such a beautiful, modern take on Italian style.  What about those cars specifically appeals to you?  Are you drawn to the performance, the craftsmanship, or something else entirely?\n",
+            "context": " specifically user preferences.\n\nEmotional Tone: Enthusiastic,  interested\n,  inquisitive,  enthusiastic\n* ADAM: Supportive, **Key Topics:**\n\n* Cars (Porsche,  Ferrari)\n* User's enthusiasm/excitement\n\n**Emotional Tone:**\n\n* User: Positive,  curious.\n, Key Topic: Cars"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "session_id": "20241205_133253_c33c8f7b",
+    "current_topic": "cars",
+    "student_name": "Omar",
+    "student_age": 10,
+    "student_english_level": "beginner",
+    "history": [
+        {
+            "timestamp": "2024-12-05 13:32:55",
+            "user_input": "",
+            "ai_response": "(ADAM smiles warmly, leans forward slightly, and gestures with his hands)\n\n\"Hey Omar!  It's great to meet you!  So, you're into cars, huh?  That's cool!  What's your favorite thing about cars?  Like, is it the way they look, the sounds they make, or maybe how fast they go?  Maybe you've seen some super cool cars in movies or games?\"\n",
+            "context": "beginning conversation"
+        }
+    ]
+}

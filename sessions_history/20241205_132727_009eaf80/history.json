@@ -1,0 +1,21 @@
+{
+    "session_id": "20241205_132727_009eaf80",
+    "current_topic": "AI",
+    "student_name": "Ahmed",
+    "student_age": 10,
+    "student_english_level": "beginner",
+    "history": [
+        {
+            "timestamp": "2024-12-05 13:27:31",
+            "user_input": "",
+            "ai_response": "(ADAM smiles warmly, leans slightly forward, and nods)\n\n\"Hey Ahmed!  It's great to meet you!  So, you're interested in AI?  That's super cool!  Have you ever played a game where the computer seems to know what you're thinking, like in a video game?  Like, it's like the computer is smart, right?\"\n",
+            "context": "beginning conversation"
+        },
+        {
+            "timestamp": "2024-12-05 13:28:16",
+            "user_input": "Cool. So tell me how to use it in my video.\n",
+            "ai_response": "ADAM:  (Smiling)  \"Cool!  Using AI in a video?  That's awesome!  Tell me, what kind of video are you making?  Maybe we can brainstorm some ways AI could help make it even better!\"\n",
+            "context": "Key Topics:  AI,  curious\n,  video games,  enthusiastic,  computer intelligence\n\nEmotional Tone: Friendly"
+        }
+    ]
+}

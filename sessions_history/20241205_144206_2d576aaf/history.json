@@ -1,0 +1,15 @@
+{
+    "session_id": "20241205_144206_2d576aaf",
+    "current_topic": "cars",
+    "student_name": "omar",
+    "student_age": 12,
+    "student_english_level": "beginner",
+    "history": [
+        {
+            "timestamp": "2024-12-05 14:42:11",
+            "user_input": "",
+            "ai_response": "Hey Omar!  It's ADAM.  Welcome to the class!  \n\nCars are cool, right?  What's your favorite thing about cars?  Maybe you like how they look, or how fast they can go?  Or maybe you like the feeling of riding in one?\n",
+            "context": "beginning conversation"
+        }
+    ]
+}

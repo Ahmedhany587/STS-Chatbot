@@ -1,0 +1,27 @@
+{
+    "session_id": "20241211_163836_50d0ee13",
+    "current_topic": "day at school",
+    "student_name": "ahmed",
+    "student_age": 23,
+    "student_english_level": "beginner",
+    "history": [
+        {
+            "timestamp": "2024-12-11 16:38:37",
+            "user_input": "",
+            "ai_response": "Hey Ahmed!  How's it going?  It's ADAM, your friendly AI buddy here at Monglish.  I'm really curious, what was your day like at school today?  Maybe you had some interesting stuff happen?\n",
+            "context": "beginning conversation"
+        },
+        {
+            "timestamp": "2024-12-11 16:39:24",
+            "user_input": "Hello Adam, uh I had an interesting uh I had an interesting day today. Uh something uh really important happened.\n",
+            "ai_response": "Hey Ahmed!  That's great to hear you had an interesting day!  Something important happened?  I'm really curious to know what it was.  Tell me more!\n",
+            "context": " casual\n, Key Topics: School day,  inquisitive,  user's experience\n\nEmotional Tone: Friendly"
+        },
+        {
+            "timestamp": "2024-12-11 16:39:46",
+            "user_input": "I can't understand the audio.  The speech is unclear and fragmented.\n",
+            "ai_response": "Ahmed, I'm sorry to hear the audio was unclear.  That's frustrating!  Maybe try again later?  Or perhaps you could describe what happened in a different way?  What was the *general* topic of the conversation?  Knowing the subject might help me understand.\n",
+            "context": " curious,  user's experience.\n\nEmotional Tone: Friendly,  and encouraging.\n,  informal.\n, Key Topics:  User's interesting/important day.\n\nEmotional Tone:  Positive, Key Topics: School day,  inquisitive"
+        }
+    ]
+}
